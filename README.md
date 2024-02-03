@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevGlimplseHRY
 - 👀 I’m interested in Data Structures & Algorithms and Android development
-- 🌱 I’m currently learning DSA using Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ... DM me 
 
 <!---
